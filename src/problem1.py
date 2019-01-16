@@ -3,7 +3,7 @@ Exam 2, problem 1.
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and Zichen Tan.
+         and  Zichen Tan.
 """  # Done: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import testing_helper
